@@ -68,7 +68,7 @@ Classes will be conducted twice a week for a total of 8 weeks.
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/python-programming-class.git
+   git clone https://github.com/Mohammadimh76/Python_class_Kurdistan.git
 
 ## About Us
 
