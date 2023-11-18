@@ -5,7 +5,7 @@ Welcome to the Python Programming Class repository! This comprehensive class is 
 ## Table of Contents
 - [About the Class](#about-the-class)
 - [Class Objectives](#class-objectives)
-- [Class Schedule](#class-schedule)
+<!-- - [Class Schedule](#class-schedule) -->
 - [How to Use This Repository](#how-to-use-this-repository)
 - [About Us](#about-us)
 
@@ -47,7 +47,7 @@ In this class, our goal is to equip participants with a strong foundation in Pyt
 
 7. **Python Matplotlib Module:**
    - **Data Visualization with Matplotlib:** Introduction to the Matplotlib module for data visualization.
-
+<!--
 ## Class Schedule
 
 | Week | Topic                           | Duration |
@@ -62,6 +62,7 @@ In this class, our goal is to equip participants with a strong foundation in Pyt
 | 8    | Capstone Project                | 2 days   |
 
 Classes will be conducted twice a week for a total of 8 weeks.
+-->
 
 ## How to Use This Repository
 
