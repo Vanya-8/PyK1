@@ -1,1 +1,1 @@
-# python_tutorial_kurd_01
+# class code : 01
