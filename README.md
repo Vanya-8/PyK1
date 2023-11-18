@@ -5,9 +5,9 @@ Welcome to the Python Programming Class repository! This comprehensive class is 
 ## Table of Contents
 - [About the Class](#about-the-class)
 - [Class Objectives](#class-objectives)
-<!-- - [Class Schedule](#class-schedule) -->
 - [How to Use This Repository](#how-to-use-this-repository)
 - [About Us](#about-us)
+<!-- - [Class Schedule](#class-schedule) -->
 
 ## About the Class
 
