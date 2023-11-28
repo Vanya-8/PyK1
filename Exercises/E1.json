@@ -1,3 +1,4 @@
+ [
     {
         "question": "1.What is a correct syntax to output \"Hello World\" in Python?",
         "type": "multiple_choice",
@@ -229,3 +230,4 @@
             }
         ]
     }
+           ]
